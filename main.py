@@ -30,8 +30,7 @@ comprensión profunda de los fenómenos estudiados y facilita la anticipación d
 
 # Variables de imagenes
 
-data_viz_1 = Image.open("data_viz_3.png")
-data_viz_2 = Image.open("data_viz_4.png")
+image1 = Image.open("image1.png")
 
 # Encabezado y primera parte
 st.write("Santiago Danielli")
@@ -40,7 +39,7 @@ with colum1:
     st.header("Analista de datos - Transformando datos en conocimiento")
     st.markdown(descripcion_personal)
 with colum2:
-    st.image(data_viz_1)
+    st.image(image1)
 
 st.markdown("------")
 
