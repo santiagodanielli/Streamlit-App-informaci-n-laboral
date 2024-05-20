@@ -1,1 +1,2 @@
-# Streamlit-App-informaci-n-laboral
+# Resumen
+Streamlit App con información laboral y datos de contacto.
