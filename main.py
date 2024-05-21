@@ -15,6 +15,8 @@ descripcion_personal = """
 Soy analista de datos con orientación en investigación social, de mercados, opinión pública y segmentación demográfica. 
 Me dedico a combinar mi formación y experiencia en estadística descriptiva e inferencial con herramientas como Power BI y Python para 
 analizar datos que aporten a la toma de decisiones.
+
+Mi principal interés es continuar desarrollando mis habilidades en el análisis estadístico de datos, ciencia de datos y machine larning.
 """
 
 concepto_ad = """
